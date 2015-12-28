@@ -14,3 +14,11 @@ The goals of the project are:
 	- Parameters
 	- Return value
 - Any extra debug information desired (printf)
+- Save recorded data to file for later viewing
+
+Bonus tasks:
+- Add filtering capabilities to the viewer
+	- Filter by thread
+	- Filter by function name
+	- Filter by class
+- Add memory viewer
